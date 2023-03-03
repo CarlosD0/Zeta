@@ -1,2 +1,0 @@
-# Zeta
-proyecto ioT
